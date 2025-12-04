@@ -13,7 +13,7 @@
 <details> 
   
 ![alt text](https://github.com/Sayward-k8/-smon-hw-04/blob/main/image/1111.png)
-
+1
 
 </details> 
 
