@@ -12,8 +12,9 @@
 
 <details> 
   
-![alt text](https://github.com/Sayward-k8/-smon-hw-04/blob/main/image/1111.png)
-1
+![alt text](https://github.com/Sayward-k8/smon-hw-05/blob/main/image/1.png)
+![alt text](https://github.com/Sayward-k8/smon-hw-05/blob/main/image/1.2.png)
+
 
 </details> 
 
@@ -29,8 +30,9 @@
 
 <details> 
   
-![alt text](https://github.com/Sayward-k8/-smon-hw-04/blob/main/image/1111.png)
-
+![alt text](https://github.com/Sayward-k8/smon-hw-05/blob/main/image/2.png)
+![alt text](https://github.com/Sayward-k8/smon-hw-05/blob/main/image/2.3.png)
+![alt text](https://github.com/Sayward-k8/smon-hw-05/blob/main/image/2.4.png)
 
 </details> 
 
@@ -46,8 +48,8 @@
 
 <details> 
   
-![alt text](https://github.com/Sayward-k8/-smon-hw-04/blob/main/image/1111.png)
-
+![alt text](https://github.com/Sayward-k8/smon-hw-05/blob/main/image/3.png)
+![alt text](https://github.com/Sayward-k8/smon-hw-05/blob/main/image/3.1.png)
 
 </details>
 
@@ -59,6 +61,6 @@
 
 <details> 
   
-![alt text](https://github.com/Sayward-k8/-smon-hw-04/blob/main/image/1111.png)
+![alt text](https://github.com/Sayward-k8/smon-hw-05/blob/main/image/4.png)
 
 </details>
