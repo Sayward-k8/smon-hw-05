@@ -61,6 +61,6 @@
 
 <details> 
   
-![alt text](https://github.com/Sayward-k8/smon-hw-05/blob/main/image/4.png)
+![alt text](https://github.com/Sayward-k8/smon-hw-05/blob/main/image/4.1.png)
 
 </details>
